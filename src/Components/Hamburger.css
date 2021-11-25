@@ -1,0 +1,13 @@
+.HamBurger{
+    display: flex;
+    flex-direction: column;
+    width: 30px;
+    height: 30px;
+}
+
+.bar{
+    height: 6px;
+    width: 100%;
+    margin: 3px;
+    background-color: aliceblue;
+}
