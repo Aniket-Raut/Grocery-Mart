@@ -1,0 +1,28 @@
+.SearchBarA{
+    margin: 100px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    overflow: hidden;
+    background-color: #d6d6d6;
+    width: 220px;
+    height: 35px;
+    border-radius: 5px;
+}
+
+.SearchBarA input{
+    background: transparent;
+    outline: none;
+    border: none;
+    width: 200px;
+    padding-left: 10px;
+}
+
+.SearchBarA button{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    border: none;
+    justify-content: center;
+    align-items: center;
+}
