@@ -1,0 +1,17 @@
+.foodlabel{
+    display: flex;
+    width: 18px;
+    height: 18px;
+    align-items: center;
+    border: 2px solid green;
+    padding: 2px;
+    margin: 10px;
+    justify-content: center;
+}
+
+.round{
+    width: 16px;
+    height: 16px;
+    border-radius: 55%;
+    background-color: green;
+}

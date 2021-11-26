@@ -1,10 +1,10 @@
 .SearchBarA{
-    margin: 100px;
+    /* margin: 100px; */
     display: flex;
     flex-direction: row;
     align-items: center;
     overflow: hidden;
-    background-color: #d6d6d6;
+    background-color: #c4c3c3;
     width: 220px;
     height: 35px;
     border-radius: 5px;
